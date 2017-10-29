@@ -14,5 +14,6 @@ Sınıf | Öğrenci İsmi  | Numara
  
  1. Tuinstra, F. "The Weight Of An Hourglass". Europhysics News
  https://www.europhysicsnews.org/articles/epn/pdf/2010/03/epn2010413p25.pdf
+ 
  Son erişim tarihi: 29 Ekim 2017.
 
